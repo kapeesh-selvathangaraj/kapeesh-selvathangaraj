@@ -20,7 +20,6 @@
 ### 💞️ Looking to Collaborate On
 - **E-learning platforms** and virtual learning tools.  
 - **Travel planning websites** with dynamic user experiences.  
-- **Transport management systems** leveraging real-time data.  
 - Any projects combining **AI/ML** with full-stack development!  
 
 ---
