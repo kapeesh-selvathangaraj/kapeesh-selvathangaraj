@@ -30,6 +30,3 @@
 - **GitHub**: [@kapeesh-selvathangaraj](https://github.com/kapeesh-selvathangaraj)
 
 ---
-
-😄 **Pronouns**: He/Him  
-⚡ **Fun Fact**: I’m constantly brainstorming ideas to merge **tech and sustainability** for impactful real-world solutions!  
