@@ -26,8 +26,8 @@
 ---
 
 ### 📫 How to Reach Me
-- **Email**: [kapeesh@example.com](mailto:kapeesh@example.com)  
-- **LinkedIn**: [linkedin.com/in/kapeesh-selvathangaraj](https://linkedin.com/in/kapeesh-selvathangaraj)  
+- **Email**: [kapeeshkapeesh66@gmail.com](mailto:kapeeshkapeesh66@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/kapeeshs](www.linkedin.com/in/kapeeshs)  
 - **GitHub**: [@kapeesh-selvathangaraj](https://github.com/kapeesh-selvathangaraj)
 
 ---
